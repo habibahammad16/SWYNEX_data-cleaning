@@ -1,1 +1,2 @@
 # SWYNEX_data-cleaning
+As part of my internship at Swynex Technologies, I was assigned a data-cleaning task using a messy HR dataset obtained from GitHub. I cleaned the dataset by replacing inconsistent missing-value entries with blanks and highlighting them in red. I standardised employee names, corrected text-based age and salary values, unified date formats, and reviewed gender, department, and position categories. I also identified missing contact information to improve data consistency and prepare the dataset for further analysis.
